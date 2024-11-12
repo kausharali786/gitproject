@@ -1,3 +1,4 @@
-abc.pdf
-abc.log
-abc.txt
+*.pdf
+*.log
+*.txt
+*.md
